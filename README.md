@@ -52,7 +52,7 @@ To enhance the accuracy of quantum tunneling simulations, future research should
 
 ## Report
 
-The full academic report is available in the repository as [report.pdf](data\report.pdf).
+The full academic report is available in the repository as [report.pdf](data/report.pdf).
 
 ## References
 
